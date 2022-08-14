@@ -1,271 +1,37 @@
-<html>
-    <head>
-  <style>
+## Welcome to GitHub Pages
 
-#blink2 {
-  -webkit-animation: blink2 1s linear infinite;
-  animation: blink2 1s linear infinite;
-}
-@-webkit-keyframes blink2 {
-  100% { color: rgba(34, 34, 34, 0); }
-}
-@keyframes blink2 {
-  100% { color: rgba(34, 34, 34, 0); }
-}
+You can use the [editor on GitHub](https://github.com/ahat1992/-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-    * {
-      background: #C0C0C0;
-    }
-    .body-login-form .tab-content {
-      position: inherit;
-      padding: inherit;
-    }
-     .b2-title {
-      text-align: center;
-      padding-top: 10px;
-      color: white;
-      margin-bottom: 50px;
-      font-size: 30px;
-     }
-    .b-title {
-      text-align: center;
-      padding-top: 50px;
-      color: black;
-      margin-bottom: 50px;
-      font-size: 35px;
-    }
-    .bb-title {
-      text-align: center;
-      padding-top: 50px;
-      color: black;
-      margin-bottom: 50px;
-      font-size: 35px;
-    }
-    .b-content {
-      font-size: 40px;
-      color: #FFF;
-      text-align: center;
-    }
-    .b-copyright {
-      margin-top: 25px;
-      text-align: center;
-    }
-	.b-copyright__link {
-      color: white;
-      font-size: 21px;
-    }
-	  .b22-title {
-      text-align: r;
-      padding-top: 60px;
-      color: white;
-      margin-bottom: 5px;
-      font-size: 30px;
-	  }
-    .b22-copyright__link {
-      color: white;
-      font-size: 25px;
-	  }
-	  .b2-title {
-      text-align: center;
-      padding-top: 20px;
-      color: white;
-      margin-bottom: 5px;
-      font-size: 40px;
-    }
-    .b-text_lang_ru {
-      display: none;
-    }
-.button {
-    background-color: #4CAF50; /* Green */#4CAF50
-    border: none;
-    color: white;
-    padding: 10px 30px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 22px;
-    margin: 4px 2px;
-    
-}
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-.button2 {background-color: #4169E1;} /* Blue */
-.button3 {background-color: #FF3030;} /* Red */ 
-.button4 {background-color: #e7e7e7; color: black;} /* Gray */ 
-.button5 {background-color: #1C1C1C;} /* Black */
-.button6 {background-color: #FF69B4;} /* HotPink */
-  </style>
-  <style>
-        .card {
-            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-            transition: 0.3s;
-            width: 95%;
-            border-radius: 10px;
-            center-block {
-                display: block;
-            }
-            .card:hover {
-                box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
-            }
-            img {
-                border-radius: 5px 5px 0 0;
-            }
-            .container {
-                padding: 2px 16px;
-            }
-            aero-antiban {
-               font-size: 72px;
-               background: -webkit-linear-gradient(#eee, #333);
-               -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;
-            }
-     </style>
-</head>
-<body class="body-login-form">
-<div id="main-wrapper">
-  <div id="overlay" class="hide"></div>
-  <div id="content" class="tab-content active" data-tabid="tab1"><div id="login-wrapper">
-    <div id="login-form">
-      <div id="login-form-form">
-     <br>
-  	<ul>
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+### Markdown
 
-   ym(88894099, "init", {
-        clickmap:true,
-        trackLinks:true,
-        accurateTrackBounce:true
-   });
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/88894099" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+```markdown
+Syntax highlighted code block
 
-     
-           <br>
-           <a class="button button2" href="https://gbwamod.github.io/whatsapp95/" target="_blank"><--Назад<script type="text/javascript"></script></a>
+# Header 1
+## Header 2
+### Header 3
 
-          <center>
-          <img src="Rezvan.png" width="500" height="160">
-	   </center>
-		  <br>
-<center>
-          <font color="red"><marquee scrollamount="3" width="35"> </marquee></font>     
-          <a class="button button2" href="https://t.me/gbwamod" target="_blank">Telegram<script type="text/javascript"></script></a>
-          <font color="red"><marquee scrollamount="3" width="35" direction="right"> </marquee></font>   
-         
-          <font color="red"><marquee scrollamount="3" width="35"> </marquee></font>     
-          <a class="button button2" href="https://www.donationalerts.com/r/rezvan8388" target="_blank">Поддержите меня (Donat)<script type="text/javascript"></script></a>
-          <font color="red"><marquee scrollamount="3" width="35" direction="right"> </marquee></font>   
-         
-        <font color="red"><marquee scrollamount="3" width="35"> </marquee></font>     
-          <a class="button button2" href="https://youtube.com/c/Rezvan001" target="_blank">YouTube<script type="text/javascript"></script></a>
-          <font color="red"><marquee scrollamount="3" width="35" direction="right"> </marquee></font>   
-         
-        </center>
-   </ul>
-<br>
-<center>
-          <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=227896&format=468x60&ga=g"></script>
-<noscript><a href="https://yllix.com/publishers/227896" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/468x60.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
-</center>
-<br>
-          <h2 class="bb-title b-text b-text_lang_ru">Добро пожаловать!</h2>
-         
-          <h3 class="b-title b-text b-text_lang_ru">GBWhatsApp-Plus</h3>
-          <br>
-        <center>
-        <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=227896&format=468x60&ga=g"></script>
-<noscript><a href="https://yllix.com/publishers/227896" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/468x60.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
-         
-       </center>
-<br>
-    </div>
-         <div class="b-copyright">
-         <img src=""/><br/>
-        <br>
-          <h2>WhatsApp+ (Вместо оригинала)</h2>
-          <font color="red"><marquee scrollamount="3" width="35"> </marquee></font>     
-          <a class="button button2" href="https://www.mediafire.com/file/16vhaaqur91ujzv/WhatsApp-Plus_V10.10_Rezvan.apk/file" target="_blank">Скачать<br>com.whatsapp<script type="text/javascript"></script></a>
-          <font color="red"><marquee scrollamount="3" width="35" direction="right"> </marquee></font>   
-          
-          <div class="b-copyright">
-         <img src=""/><br/>
-         <h2>GBWhatsApp (Клон 1)</h2>
-   
+- Bulleted
+- List
 
-         <font color="red"><marquee scrollamount="3" width="35"> </marquee></font>   
-         <a class="button button" href="https://www.mediafire.com/file/4ffo3ddmyb7405a/GBWhatsApp_V10.10_Rezvan.apk/file" target="_blank">Скачать<br>com.gbwhatsapp<script type="text/javascript"></script></a>
-         <font color="red"><marquee scrollamount="3" width="35" direction="right"> </marquee></font> 
-          <br>
-          <br>
-         <center>
-          <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=227896&format=468x60&ga=g"></script>
-          <noscript><a href="https://yllix.com/publishers/227896" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/468x60.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
-         </center>
-        <br>
+1. Numbered
+2. List
 
-         <div class="b-copyright">
-         <img src=""/><br/>
-          <h2>GBWhatsApp3 (Клон 2)</h2>
-         <font color="red"><marquee scrollamount="3" width="35"> </marquee></font>   
-         <a class="button button3" href="https://www.mediafire.com/file/ao2fcpgf6rns14e/GBWhatsApp3_V10.10_Rezvan.apk/file" target="_blank">Скачать<br>com.gbwhatsapp3<script type="text/javascript"></script></a>
-         <font color="red"><marquee scrollamount="3" width="35" direction="right"> </marquee></font> 
-         <div class="b-copyright">
-             
-          <br>
-        <br>
-       <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=227896&format=468x60&ga=g"></script>
-<noscript><a href="https://yllix.com/publishers/227896" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/468x60.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
-       <br>
-        <br>
-         <h2>WhatsApp95</h2>
-         <font color="red"><marquee scrollamount="3" width="35"> </marquee></font>   
-         <a class="button button5" href="https://www.mediafire.com/file/x4z3uksj2avk0id/WhatsApp95_V10.80_Rezvan.apk/file" target="_blank">Скачать<br>com.whatsapp95<script type="text/javascript"></script></a>
-         <font color="red"><marquee scrollamount="3" width="35" direction="right"> </marquee></font> 
-          <br>
-    </div>
-         <div class="b-copyright">
-         <img src=""/><br/>
-        <br>
-         <font color="red"><marquee scrollamount="3" width="35"> </marquee></font>   
-         <a class="button button6" href="https://disk.yandex.ru/d/QaA4it0ei6_u6w" target="_blank">Скачать<br>InstaPlus<script type="text/javascript"></script></a>
-         <font color="red"><marquee scrollamount="3" width="35" direction="right"> </marquee></font> 
-     <br>
-    <br>
-   <br>
-      <script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=227896&format=468x60&ga=g"></script>
-<noscript><a href="https://yllix.com/publishers/227896" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/468x60.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
-<br>
-<br>
-<br>
-</div>
-<br>
-<br>
-<script type="text/javascript">
-    var platformLanguage = navigator && (
-      navigator.language ||
-        navigator.browserLanguage ||
-        navigator.systemLanguage ||
-        navigator.userLanguage ||
-        null ),
-    elemsRU, elemsEN;
-    if (platformLanguage.match("ru") && document.getElementsByClassName) {
-    elemsRU = document.getElementsByClassName("b-text_lang_ru");
-    elemsEN = document.getElementsByClassName("b-text_lang_en");
-    var l = elemsEN.length;
-    while(l--) {
-    elemsEN[l].style.display = "none";
-    }
-    l = elemsRU.length;
-    while(l--) {
-      elemsRU[l].style.display = "block";
-    }
-    document.title = "REZVAN NOHCHO";
-  }
-</script>
-</body>
-</html>
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahat1992/-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
